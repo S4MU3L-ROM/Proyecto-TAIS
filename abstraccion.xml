@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<pagina>
+    <formulario>
+        <genero>Genero de la pelicula</genero>
+        <nombre>Se agrega el nombre del proyecto</nombre>
+        <coleccion>A que coleccion pertenece</coleccion>
+        <descripcion>
+            <Año>Año de creación</Año>
+            <resumen>Se genera una breve descripción</resumen>
+            <imagen>Se agrega una imagen</imagen>
+            <autor>Autor de la pelicula</autor>
+        </descripcion>
+    </formulario>
+</pagina>
